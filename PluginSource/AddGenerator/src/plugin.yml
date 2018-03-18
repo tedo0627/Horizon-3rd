@@ -1,0 +1,6 @@
+name: AddGenerator
+main: tedo.AddGenerator.AddGenerator
+version: 1.0.0
+api: [1.0.0]
+load: STARTUP
+author: tedo

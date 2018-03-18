@@ -1,0 +1,5 @@
+name: LoginSystem
+main: tedo.LoginSystem.LoginSystem
+version: 1.0.0
+api: [1.0.0]
+author: tedo

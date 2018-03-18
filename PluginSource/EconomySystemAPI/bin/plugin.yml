@@ -1,0 +1,5 @@
+name: EconomySystemAPI
+main: tedo.EconomySystemAPI.EconomySystemAPI
+version: 1.0.0
+api: [1.0.0]
+author: tedo
