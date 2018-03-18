@@ -1,0 +1,397 @@
+world:
+  -32:6:74:
+    damage: '0'
+    amount: '1'
+    data: shop
+    money: '10000'
+    id: '278'
+  -34:6:74:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '1000'
+    id: '364'
+  -36:6:74:
+    damage: '0'
+    amount: '1'
+    data: shop
+    money: '1'
+    id: '262'
+  -35:6:74:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '1000'
+    id: '20'
+  -45:12:68:
+    damage: '1'
+    amount: '32'
+    data: shop
+    money: '1000'
+    id: '168'
+  -41:12:68:
+    damage: '2'
+    amount: '32'
+    data: shop
+    money: '1000'
+    id: '168'
+  -43:12:68:
+    damage: '0'
+    amount: '32'
+    data: shop
+    money: '1000'
+    id: '168'
+  -33:6:74:
+    damage: '0'
+    amount: '4'
+    data: shop
+    money: '1000000'
+    id: '388'
+  -36:12:77:
+    damage: '0'
+    amount: '32'
+    data: shop
+    money: '1500'
+    id: '172'
+  -38:12:77:
+    damage: '0'
+    amount: '32'
+    data: shop
+    money: '1500'
+    id: '35'
+  -42:12:77:
+    damage: '0'
+    amount: '10'
+    data: shop
+    money: '500'
+    id: '334'
+  -39:12:68:
+    damage: '0'
+    amount: '32'
+    data: shop
+    money: '10000'
+    id: '121'
+  -37:12:68:
+    damage: '0'
+    amount: '32'
+    data: shop
+    money: '1500'
+    id: '87'
+  -35:12:68:
+    damage: '0'
+    amount: '32'
+    data: shop
+    money: '2000'
+    id: '155'
+  -33:12:68:
+    damage: '0'
+    amount: '16'
+    data: shop
+    money: '1500'
+    id: '165'
+  -31:12:68:
+    damage: '0'
+    amount: '16'
+    data: shop
+    money: '1000'
+    id: '47'
+  -34:12:84:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '100'
+    id: '295'
+  -36:12:83:
+    damage: '0'
+    amount: '16'
+    data: shop
+    money: '500'
+    id: '297'
+  -29:12:74:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '1000'
+    id: '80'
+  -29:12:72:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '1000'
+    id: '45'
+  -29:12:70:
+    damage: '0'
+    amount: '1'
+    data: shop
+    money: '1000'
+    id: '25'
+  -32:12:73:
+    damage: '0'
+    amount: '32'
+    data: shop
+    money: '2000'
+    id: '201'
+  -35:18:83:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '2500'
+    id: '17'
+  -36:18:83:
+    damage: '2'
+    amount: '64'
+    data: shop
+    money: '2500'
+    id: '17'
+  -40:12:79:
+    damage: '0'
+    amount: '2'
+    data: shop
+    money: '500'
+    id: '354'
+  -37:18:82:
+    damage: '1'
+    amount: '64'
+    data: shop
+    money: '2500'
+    id: '162'
+  -38:18:82:
+    damage: '1'
+    amount: '64'
+    data: shop
+    money: '2500'
+    id: '17'
+  -39:18:81:
+    damage: '3'
+    amount: '64'
+    data: shop
+    money: '2500'
+    id: '17'
+  -32:6:66:
+    damage: '0'
+    amount: '1'
+    data: shop
+    money: '1000000'
+    id: '130'
+  -40:18:80:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '2500'
+    id: '162'
+  -32:12:71:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '2500'
+    id: '89'
+  -40:12:77:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '2500'
+    id: '169'
+  -38:12:81:
+    damage: '0'
+    amount: '1'
+    data: shop
+    money: '1000000'
+    id: '116'
+  -33:18:80:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '5000'
+    id: '219'
+  -34:18:80:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '5000'
+    id: '220'
+  -35:18:80:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '5000'
+    id: '221'
+  -36:18:79:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '5000'
+    id: '222'
+  -37:18:78:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '5000'
+    id: '223'
+  -38:18:77:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '5000'
+    id: '224'
+  -39:18:76:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '5000'
+    id: '225'
+  -38:18:75:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '5000'
+    id: '226'
+  -37:18:76:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '5000'
+    id: '227'
+  -36:18:77:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '5000'
+    id: '228'
+  -35:18:78:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '5000'
+    id: '229'
+  -34:18:78:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '5000'
+    id: '231'
+  -33:18:78:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '5000'
+    id: '232'
+  -43:18:74:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '5000'
+    id: '233'
+  -43:18:75:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '5000'
+    id: '234'
+  -42:18:76:
+    damage: '0'
+    amount: '64'
+    data: shop
+    money: '5000'
+    id: '235'
+  -30:12:85:
+    damage: '5'
+    amount: '1'
+    data: shop
+    money: '1000000000'
+    id: '397'
+  -43:12:74:
+    damage: '1'
+    amount: '32'
+    data: shop
+    money: '2500'
+    id: '351'
+  -43:12:75:
+    damage: '10'
+    amount: '32'
+    data: shop
+    money: '2500'
+    id: '351'
+  -43:12:73:
+    damage: '11'
+    amount: '32'
+    data: shop
+    money: '2500'
+    id: '351'
+  -44:12:71:
+    damage: '14'
+    amount: '32'
+    data: shop
+    money: '2500'
+    id: '351'
+  -42:12:71:
+    damage: '5'
+    amount: '32'
+    data: shop
+    money: '2500'
+    id: '351'
+  -40:12:71:
+    damage: '6'
+    amount: '32'
+    data: shop
+    money: '2500'
+    id: '351'
+  -39:12:74:
+    damage: '2'
+    amount: '32'
+    data: shop
+    money: '2500'
+    id: '351'
+  -41:12:74:
+    damage: '3'
+    amount: '32'
+    data: shop
+    money: '2500'
+    id: '351'
+  -44:12:72:
+    damage: '12'
+    amount: '32'
+    data: shop
+    money: '2500'
+    id: '351'
+  -34:12:71:
+    damage: '9'
+    amount: '32'
+    data: shop
+    money: '2500'
+    id: '351'
+  -38:12:71:
+    damage: '7'
+    amount: '32'
+    data: shop
+    money: '2500'
+    id: '351'
+  -36:12:71:
+    damage: '8'
+    amount: '32'
+    data: shop
+    money: '2500'
+    id: '351'
+  -35:12:74:
+    damage: '13'
+    amount: '32'
+    data: shop
+    money: '2500'
+    id: '351'
+  -37:12:74:
+    damage: '0'
+    amount: '32'
+    data: shop
+    money: '2500'
+    id: '351'
+seichi: {}
+life2: {}
+life1:
+  125:21:130:
+    damage: '0'
+    amount: '1'
+    data: shop
+    money: '250000'
+    id: '388'
+seichi1: {}
+seichi2: {}
+life: {}
